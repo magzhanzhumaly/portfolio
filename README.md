@@ -32,8 +32,8 @@ Premium features were implemented using AppHud, allowing users to unlock advance
 
 
 
-# [LicenseMaster](https://apps.apple.com/kz/app/licensemaster/id6654919163)
-[`📲 Available on the App Store`](https://apps.apple.com/kz/app/licensemaster/id6654919163)
+# [DMV Genie](https://apps.apple.com/kz/app/dmv-genie/id6654919163)
+[`📲 Available on the App Store`](https://apps.apple.com/kz/app/dmv-genie/id6654919163)
 
 I created LicenseMaster, an iOS/iPadOS app that serves as a personalized DMV tutor, built entirely from scratch. Using AI, the app tailors driving theory questions to each user, ensuring a customized learning experience. With Realm and AppStorage for data management, the app delivers seamless performance and efficiency.
 
