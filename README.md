@@ -58,6 +58,23 @@ Premium features, implemented via AppHud, provide additional functionality for u
 
 
 
+# Sbal:Trendy Highlights
+[`📲 Available on the App Store`]([https://apps.apple.com/kz/app/otan-mektep/id6503287697](https://apps.apple.com/kz/app/sbal-trendy-highlights/id6737634852))
+
+I developed Trendy Highlights, an iOS app focused on helping users capture, organize, and categorize fashion trends. The app allows users to tag and describe their style inspirations by adding photos, creating trend collections, and selecting fashion categories. Users can quickly organize trends by season and style tags, making it easy to track their favorite looks.
+
+The app was built using SwiftUI with the MVVM architecture, and data was stored using Realm to ensure seamless management of fashion trends and user inputs.
+
+![Trendy Highlights Flat](https://github.com/user-attachments/assets/4746cd79-fcaa-499f-ba5d-7790188c84b4)
+
+
+
+**Tech Used:**
+-	📱 WebView
+-	🎨 SwiftUI (MVVM)
+-	💿 Realm
+
+
 
 
 
@@ -113,7 +130,147 @@ Throughout the project, I applied my expertise in Firebase Cloud Messaging for e
 
 
 
+# Math Solver
+`📲 Will be available on the App Store soon`
 
+I developed Math Solver, an iOS app using SwiftUI and the Gemini-Pro API, allowing users to solve math problems by capturing photos of equations. The app uses AI to process images, deduce equations, and provide step-by-step solutions, ensuring users can learn as they solve.
+
+Math Solver also features interactive quizzes and sends Firebase notifications to encourage users to practice and improve their skills. With its intuitive design and educational focus, the app offers a seamless and engaging experience for math enthusiasts.
+
+![Frame 1](https://github.com/user-attachments/assets/6e74aa27-5f66-4063-93a3-c78d5d9adc09)
+![Frame 1597880916](https://github.com/user-attachments/assets/a37c3a0c-c0f1-4024-8304-bf71e2f57318)
+
+**Tech Used:**
+-	💿 Realm
+-	🎨 SwiftUI (MVVM)
+-	🏦 Gemini Pro Api
+-	💰 AppHud for IAP
+
+
+
+
+# Remove Object
+`📲 Will be available on the App Store soon`
+
+I developed Remove Object, an iOS app that enables users to effortlessly remove objects or backgrounds from their photos using Replicate.com’s API. With a clean and intuitive interface, the app offers powerful editing capabilities, making it easy for users to create polished, professional-looking images.
+
+To enhance the user experience, the app integrates premium features through AppHud, allowing access to advanced editing tools. Remove Object combines functionality and simplicity, catering to both casual users and creative professionals.
+
+![Frame 513653](https://github.com/user-attachments/assets/23a781e8-3540-437a-8352-866958e54a94)
+
+**Tech Used:**
+-	💿 Realm
+-	🎨 SwiftUI (MVVM)
+-	🏦 Replicate.com API
+-	💰 AppHud for IAP
+
+
+
+
+
+
+# SoundWave
+`📲 Will be available on the App Store soon`
+
+I developed SoundWave, an iOS app that empowers users to generate AI music effortlessly using the Suno Music API from platform.acedata.cloud. Users can create multiple tracks simultaneously, edit them to their liking, and play the music directly within the app. The intuitive design ensures a seamless experience, whether you’re exploring new sounds or crafting your own melodies.
+
+SoundWave also enables users to download and share their creations. With Realm integration, tracks are securely stored locally, allowing users to access and manage their music library anytime. This app provides a comprehensive platform for creative music generation and personalization.
+
+<img width="1800" alt="image" src="https://github.com/user-attachments/assets/0e414fd6-694b-4c17-b63c-0b8c9bf09eea" />
+
+**Tech Used:**
+-	💿 Realm
+-	🎨 SwiftUI (MVVM)
+-	🏦 Suno API
+-	💰 AppHud for IAP
+
+
+# AI Music Maker
+`📲 Will be available on the App Store soon`
+
+I created AI Music Generation, my second application in the AI music space, building on my experience in this niche. This app empowers users to compose AI-generated music effortlessly, offering options for creating both instrumental tracks and songs with vocals. With the ability to generate multiple tracks simultaneously, users can explore diverse musical ideas in a streamlined and creative environment.
+
+The app integrates the Suno Music API from platform.acedata.cloud and uses Realm for secure local storage of tracks. Users can play, share, and download their creations, as well as engage with a feed of trending AI songs. AI Music Generation provides a versatile platform for exploring innovative music production while ensuring a polished user experience.
+
+![Frame 513653](https://github.com/user-attachments/assets/0b17296b-0976-4d50-b7cf-9eaae26ae995)
+
+**Tech Used:**
+-	💿 Realm
+-	🎨 SwiftUI (MVVM)
+-	🏦 Suno API
+-	💰 AppHud for IAP
+
+
+# Vibrator
+`📲 Will be available on the App Store soon`
+
+I developed Vibrator, a Swift-based iOS app designed to provide customizable vibration experiences using Apple’s Core Haptics API. This app enables users to select from a variety of pre-defined vibration themes, adjust the intensity and speed levels with precision, and enjoy unique patterns for relaxation or other use cases. The intuitive design ensures smooth navigation between modes, empowering users to tailor vibrations to their preferences.
+
+To enhance the user experience, I integrated AppHud for managing in-app purchases, enabling access to premium vibration modes and features. By leveraging Apple’s APIs without any third-party dependencies, Vibrator ensures seamless functionality and high performance while maintaining a sleek and user-friendly interface.
+
+![Frame 1597880913](https://github.com/user-attachments/assets/a62de5ac-dd71-4154-a507-9df8980d16e7)
+
+**Tech Used:**
+-	🎨 SwiftUI (MVVM)
+-	🏦 Apple's Core Haptics API
+-	💰 AppHud for IAP
+
+
+
+
+# App Ad Blocker
+`📲 Will be available on the App Store soon`
+
+I developed App Ad Blocker, an iOS app designed to improve Safari browsing by integrating powerful content blocker extensions. The app enables users to block unwanted advertisements, enhance privacy by preventing trackers, and secure their browsing experience by filtering harmful or intrusive content. Users can customize their experience by selecting filters and adding keywords or specific sites to block, tailoring protection to their needs.
+
+Built with Swift, the app leverages Safari Content Blockers to deliver efficient performance without impacting browsing speed. It provides seamless usability with toggle options for quick adjustments and offers premium features via AppHud to unlock advanced filters and settings. App Ad Blocker ensures an elevated and safer browsing experience, combining robust functionality with a clean, user-friendly interface.
+
+![Frame 1597880918](https://github.com/user-attachments/assets/a24d3a15-02d2-4fdc-bfc1-800f70014bb0)
+
+
+**Tech Used:**
+-	🎨 SwiftUI (MVVM)
+-	🏦 Safari Content Blockers
+-	💰 AppHud for IAP
+
+
+
+
+
+
+  # Invoice Maker
+`📲 Will be available on the App Store soon`
+
+I developed Invoice Maker, a powerful iOS application enabling users to create professional invoices tailored to any type of purchase in any desired currency. The app generates customized invoices that users can send directly to their customers for their products or services. With its intuitive interface, Invoice Maker simplifies the billing process, ensuring users can seamlessly manage their financial transactions.
+
+The app also provides advanced earnings tracking through detailed statistics for any specified period and currency. Built entirely without external APIs, it leverages Realm for secure data storage and Apphud for premium features, offering a robust, private, and efficient solution for managing invoices and financial tracking.
+
+![Новые скриншоты](https://github.com/user-attachments/assets/952bd69a-e5c9-4fbf-894b-5ad191eaff8d)
+
+![Invoice preview](https://github.com/user-attachments/assets/fd6c4efd-26c1-4392-9ab8-0da71ad68d94)
+
+**Tech Used:**
+-	💿 Realm
+-	🎨 SwiftUI (MVVM)
+-	💰 AppHud for IAP
+
+
+
+# Never Have I Ever - AI Game
+`📲 Will be available on the App Store soon`
+
+I developed Never Have I Ever - AI Game, a modern twist on the classic party game. The app features pre-designed game packs, each with a unique theme, allowing users to enjoy countless rounds of fun with friends. For those seeking a personalized experience, the app integrates Gemini-Pro API, enabling users to create their own custom game packs tailored to their preferences. Users can specify descriptions, card numbers, and game styles, making every pack uniquely their own.
+
+The app’s user-friendly design ensures seamless navigation and gameplay, whether using pre-made packs or customized ones. It brings creativity and fun together, offering an unforgettable gaming experience for every type of party or gathering.
+
+![Frame 1597880915](https://github.com/user-attachments/assets/88b4ec5c-ff77-4688-8d76-5064b09a4d09)
+
+
+**Tech Used:**
+-	💿 Realm
+-	🎨 SwiftUI (MVVM)
+-	🏦 Gemini Pro Api
+-	💰 AppHud for IAP
 
 # USCIS CaseFlow
 `📲 Will be available on the App Store soon`
@@ -184,23 +341,6 @@ In addition to workout tracking, RunTracker displays the paths users have run th
 
 
 
-
-
-# Trendy Highlights
-`📲 Will be available on the App Store soon`
-
-I developed Trendy Highlights, an iOS app focused on helping users capture, organize, and categorize fashion trends. The app allows users to tag and describe their style inspirations by adding photos, creating trend collections, and selecting fashion categories. Users can quickly organize trends by season and style tags, making it easy to track their favorite looks.
-
-The app was built using SwiftUI with the MVVM architecture, and data was stored using Realm to ensure seamless management of fashion trends and user inputs.
-
-![Trendy Highlights Flat](https://github.com/user-attachments/assets/4746cd79-fcaa-499f-ba5d-7790188c84b4)
-
-
-
-**Tech Used:**
--	📱 WebView
--	🎨 SwiftUI (MVVM)
--	💿 Realm
 
 
 
