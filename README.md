@@ -59,7 +59,7 @@ Premium features, implemented via AppHud, provide additional functionality for u
 
 
 # Sbal:Trendy Highlights
-[`📲 Available on the App Store`]([https://apps.apple.com/kz/app/otan-mektep/id6503287697](https://apps.apple.com/kz/app/sbal-trendy-highlights/id6737634852))
+[`📲 Available on the App Store`](https://apps.apple.com/kz/app/sbal-trendy-highlights/id6737634852)
 
 I developed Trendy Highlights, an iOS app focused on helping users capture, organize, and categorize fashion trends. The app allows users to tag and describe their style inspirations by adding photos, creating trend collections, and selecting fashion categories. Users can quickly organize trends by season and style tags, making it easy to track their favorite looks.
 
