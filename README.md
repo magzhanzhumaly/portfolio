@@ -5,7 +5,10 @@ This iOS/iPadOS app was designed and developed entirely by me from the ground up
 
 Premium features were implemented using AppHud, allowing users to unlock advanced financial tracking capabilities. The app combines ease of use with powerful functionality, providing users with the tools they need for efficient money management.
 
- ![CashCraft](https://github.com/user-attachments/assets/0eada87f-7553-4e80-91f9-5eed0955e1cd)
+<img width="594" alt="Screenshot 2025-05-02 at 22 43 16" src="https://github.com/user-attachments/assets/eee7be6f-c569-4464-9ff2-4783acc0fe3a" />
+
+
+
 
 **Key Contributions:**
 
@@ -39,7 +42,8 @@ I created DMV Genie, an iOS/iPadOS app that serves as a personalized DMV tutor, 
 
 Premium features, implemented via AppHud, provide additional functionality for users seeking a more advanced learning experience, making LicenseMaster a comprehensive tool for mastering driving theory.
 
-![LicenseMaster](https://github.com/user-attachments/assets/68eb3e7e-e9d5-4bfd-ab95-f6ba9dd1fda8)
+<img width="602" alt="Screenshot 2025-05-02 at 22 44 24" src="https://github.com/user-attachments/assets/a8a62f05-e020-4d58-bcae-72c05b6a2b90" />
+
 
 **Key Contributions:**
 
@@ -65,8 +69,7 @@ I developed Trendy Highlights, an iOS app focused on helping users capture, orga
 
 The app was built using SwiftUI with the MVVM architecture, and data was stored using Realm to ensure seamless management of fashion trends and user inputs.
 
-![Trendy Highlights Flat](https://github.com/user-attachments/assets/4746cd79-fcaa-499f-ba5d-7790188c84b4)
-
+<img width="488" alt="Screenshot 2025-05-02 at 22 45 27" src="https://github.com/user-attachments/assets/7dbe65ae-0df2-4f0b-aa61-996fe6824606" />
 
 
 **Tech Used:**
@@ -86,7 +89,7 @@ Acadly is a classroom response system used by over 400 universities. When I join
 
 I also reduced load times by 3 seconds and increased the Crash Free rate from 94.92% to 99.57% by introducing over 140 unit tests that detected and resolved critical bugs. My work transformed Acadly into a more stable and efficient platform for both students and educators.
 
-<img width="1050" alt="image" src="https://github.com/user-attachments/assets/6b5c90ec-b15e-41a3-8d5b-c51b674efdf2">
+<img width="443" alt="Screenshot 2025-05-02 at 22 45 58" src="https://github.com/user-attachments/assets/295fd83f-49b1-4a76-82cf-a75ceb3409ad" />
 
 **Key Contributions:**
 
@@ -116,7 +119,8 @@ I managed the full-cycle development of an iOS and Android app for the digitizat
 
 Throughout the project, I applied my expertise in Firebase Cloud Messaging for efficient communication, Figma for UI/UX design, API design to ensure smooth backend integration, and SnapKit for layout building.
 
-<img width="481" alt="image" src="https://github.com/user-attachments/assets/b4276084-feee-4a2b-a835-e9a5ab074dca">
+
+<img width="445" alt="Screenshot 2025-05-02 at 22 46 22" src="https://github.com/user-attachments/assets/9ab6e75c-e40e-4af6-a9ff-dc2a82853ad5" />
 
 
 **Tech Used:**
@@ -137,8 +141,10 @@ I developed Math Solver, an iOS app using SwiftUI and the Gemini-Pro API, allowi
 
 Math Solver also features interactive quizzes and sends Firebase notifications to encourage users to practice and improve their skills. With its intuitive design and educational focus, the app offers a seamless and engaging experience for math enthusiasts.
 
-![Frame 1](https://github.com/user-attachments/assets/6e74aa27-5f66-4063-93a3-c78d5d9adc09)
-![Frame 1597880916](https://github.com/user-attachments/assets/a37c3a0c-c0f1-4024-8304-bf71e2f57318)
+<img width="516" alt="Screenshot 2025-05-02 at 22 47 06" src="https://github.com/user-attachments/assets/f77c9f0b-fbc4-45df-b569-73dada70e65f" />
+
+
+<img width="789" alt="Screenshot 2025-05-02 at 22 47 20" src="https://github.com/user-attachments/assets/fb74c310-140b-45db-a054-aa66feaad0be" />
 
 **Tech Used:**
 -	💿 Realm
@@ -156,7 +162,7 @@ I developed Remove Object, an iOS app that enables users to effortlessly remove 
 
 To enhance the user experience, the app integrates premium features through AppHud, allowing access to advanced editing tools. Remove Object combines functionality and simplicity, catering to both casual users and creative professionals.
 
-![Frame 513653](https://github.com/user-attachments/assets/23a781e8-3540-437a-8352-866958e54a94)
+<img width="670" alt="Screenshot 2025-05-02 at 22 47 57" src="https://github.com/user-attachments/assets/605e2acd-318d-4947-a45a-7d89a39ed5dc" />
 
 **Tech Used:**
 -	💿 Realm
@@ -176,7 +182,8 @@ I developed SoundWave, an iOS app that empowers users to generate AI music effor
 
 SoundWave also enables users to download and share their creations. With Realm integration, tracks are securely stored locally, allowing users to access and manage their music library anytime. This app provides a comprehensive platform for creative music generation and personalization.
 
-<img width="1800" alt="image" src="https://github.com/user-attachments/assets/0e414fd6-694b-4c17-b63c-0b8c9bf09eea" />
+<img width="938" alt="Screenshot 2025-05-02 at 22 48 25" src="https://github.com/user-attachments/assets/36b99b95-aa36-4859-b2d9-883ac5f354df" />
+
 
 **Tech Used:**
 -	💿 Realm
@@ -192,7 +199,8 @@ I created AI Music Generation, my second application in the AI music space, buil
 
 The app integrates the Suno Music API from platform.acedata.cloud and uses Realm for secure local storage of tracks. Users can play, share, and download their creations, as well as engage with a feed of trending AI songs. AI Music Generation provides a versatile platform for exploring innovative music production while ensuring a polished user experience.
 
-![Frame 513653](https://github.com/user-attachments/assets/0b17296b-0976-4d50-b7cf-9eaae26ae995)
+<img width="739" alt="Screenshot 2025-05-02 at 22 48 53" src="https://github.com/user-attachments/assets/199a5437-7186-48af-b6df-1048fd024d44" />
+
 
 **Tech Used:**
 -	💿 Realm
@@ -208,7 +216,8 @@ I developed Vibrator, a Swift-based iOS app designed to provide customizable vib
 
 To enhance the user experience, I integrated AppHud for managing in-app purchases, enabling access to premium vibration modes and features. By leveraging Apple’s APIs without any third-party dependencies, Vibrator ensures seamless functionality and high performance while maintaining a sleek and user-friendly interface.
 
-![Frame 1597880913](https://github.com/user-attachments/assets/a62de5ac-dd71-4154-a507-9df8980d16e7)
+<img width="576" alt="Screenshot 2025-05-02 at 22 49 38" src="https://github.com/user-attachments/assets/91c0b57e-d900-4c20-99c6-000f98f2e70d" />
+
 
 **Tech Used:**
 -	🎨 SwiftUI (MVVM)
@@ -225,7 +234,8 @@ I developed App Ad Blocker, an iOS app designed to improve Safari browsing by in
 
 Built with Swift, the app leverages Safari Content Blockers to deliver efficient performance without impacting browsing speed. It provides seamless usability with toggle options for quick adjustments and offers premium features via AppHud to unlock advanced filters and settings. App Ad Blocker ensures an elevated and safer browsing experience, combining robust functionality with a clean, user-friendly interface.
 
-![Frame 1597880918](https://github.com/user-attachments/assets/a24d3a15-02d2-4fdc-bfc1-800f70014bb0)
+
+<img width="716" alt="Screenshot 2025-05-02 at 22 50 50" src="https://github.com/user-attachments/assets/2032b315-f3ac-4c23-b87e-1963c2cd5002" />
 
 
 **Tech Used:**
@@ -245,9 +255,10 @@ I developed Invoice Maker, a powerful iOS application enabling users to create p
 
 The app also provides advanced earnings tracking through detailed statistics for any specified period and currency. Built entirely without external APIs, it leverages Realm for secure data storage and Apphud for premium features, offering a robust, private, and efficient solution for managing invoices and financial tracking.
 
-![Новые скриншоты](https://github.com/user-attachments/assets/952bd69a-e5c9-4fbf-894b-5ad191eaff8d)
+<img width="782" alt="Screenshot 2025-05-02 at 22 51 35" src="https://github.com/user-attachments/assets/b71d712b-47d1-4e50-8625-1e393c966b40" />
 
-![Invoice preview](https://github.com/user-attachments/assets/fd6c4efd-26c1-4392-9ab8-0da71ad68d94)
+<img width="256" alt="Screenshot 2025-05-02 at 22 52 03" src="https://github.com/user-attachments/assets/240a2fd6-7bd5-4540-b5ce-8a9efc1ab030" />
+
 
 **Tech Used:**
 -	💿 Realm
@@ -263,7 +274,8 @@ I developed Never Have I Ever - AI Game, a modern twist on the classic party gam
 
 The app’s user-friendly design ensures seamless navigation and gameplay, whether using pre-made packs or customized ones. It brings creativity and fun together, offering an unforgettable gaming experience for every type of party or gathering.
 
-![Frame 1597880915](https://github.com/user-attachments/assets/88b4ec5c-ff77-4688-8d76-5064b09a4d09)
+<img width="663" alt="Screenshot 2025-05-02 at 22 55 39" src="https://github.com/user-attachments/assets/2ca80137-ed78-4186-a2ef-3ec0a84e3300" />
+
 
 
 **Tech Used:**
@@ -279,8 +291,9 @@ I developed USCIS CaseFlow, an iOS app designed to help users track their USCIS 
 
 I managed the entire API integration process, including researching APIs, making necessary arrangements for production use, and implementing the official USCIS API. In-app purchases, integrated through AppHud, unlock premium features for enhanced functionality.
 
+<img width="759" alt="Screenshot 2025-05-02 at 22 56 33" src="https://github.com/user-attachments/assets/11af071f-053a-47a4-a695-a3ed18d384d0" />
 
-![USCIS CaseFlow](https://github.com/user-attachments/assets/26cb9ac3-8967-4ee7-8042-8119e3d5b5de)
+
 
 **Tech Used:**
 -	💿 Realm
@@ -302,7 +315,7 @@ I developed SmartNest, an iOS app that allows users to regulate the brightness a
 
 Premium features, implemented via AppHud, unlocked additional capabilities, such as managing multiple lamps and advanced lighting settings.
 
-![SmartNest](https://github.com/user-attachments/assets/6ad81c29-a4fe-49d7-9063-f6a1543e5a31)
+<img width="745" alt="Screenshot 2025-05-02 at 22 57 13" src="https://github.com/user-attachments/assets/57bae96a-0044-4d42-ac6a-a4310fe2bbe6" />
 
 
 **Tech Used:**
@@ -326,7 +339,7 @@ I developed RunTracker, an iOS app designed to track running activities, heart r
 
 In addition to workout tracking, RunTracker displays the paths users have run through, similar to Strava, enhancing the overall running experience. The app also includes a to-do list feature, with all tasks and data stored securely in Realm. Premium features were integrated to provide advanced functionalities for users seeking more from their fitness tracking experience.
 
-![RunTracker](https://github.com/user-attachments/assets/e6e5900b-36c1-425a-af91-3e6e48d84e13)
+<img width="1154" alt="Screenshot 2025-05-02 at 22 57 46" src="https://github.com/user-attachments/assets/c7acf597-8805-4f03-b280-fcefd4f3372c" />
 
 **Tech Used:**
 
@@ -357,8 +370,9 @@ I developed IncomeExpense, an iOS/iPadOS app designed to help users track and ma
 
 With Realm for secure data storage, IncomeExpense ensures a smooth and reliable user experience.
 
+<img width="595" alt="Screenshot 2025-05-02 at 22 58 19" src="https://github.com/user-attachments/assets/95ad4902-547d-45fc-9ee6-9b4c828dbcaf" />
 
-![IncomeExpense](https://github.com/user-attachments/assets/08808e20-06d1-4dc7-9314-723aa3031ea1)
+
 
 **Tech Used:**
 -	📱 WebView
@@ -380,7 +394,8 @@ I developed GroupFit Organizer, an iOS app designed to help users organize and t
 
 The app was built using WebView for content display and relied on SwiftUI with the MVVM architecture. All workout data was stored securely using Realm.
 
-![GroupFit Organizer Flat](https://github.com/user-attachments/assets/bc538128-1db0-4930-9b8a-1d239b47c87c)
+<img width="655" alt="Screenshot 2025-05-02 at 22 58 55" src="https://github.com/user-attachments/assets/d0c309e1-11ba-435d-a29e-2b31d70cc1f3" />
+
 
 **Tech Used:**
 -	📱 WebView
@@ -404,7 +419,8 @@ As part of my thesis work at university, I led a team in developing Urban Transp
 
 The app utilizes the Mapbox API to display available transport on a map, and it connects to a central database (developed by a teammate) through a REST API, retrieving user information such as balance, name, and available transport options. Additionally, the app features surge pricing to adjust rental costs dynamically based on demand, enhancing user experience and operational efficiency.
 
-![Frame 1597880924](https://github.com/user-attachments/assets/4722ef6e-16b4-471e-8e8c-117edd86b49f)
+![Uploading Screenshot 2025-05-02 at 22.59.24.png…]()
+
 
 **Tech Used:**
 - 🗺️ Mapbox API
