@@ -221,6 +221,163 @@ To enhance the user experience, the app integrates premium features through AppH
 -	💰 AppHud for IAP
 
 
+# Call Recorder
+`📲 Will be available on the App Store soon`
+
+I developed Call Recorder to give users a seamless way to record, manage, and transcribe their phone and voice calls. The app supports automatic recording for both incoming and outgoing calls with a simple tap-to-record interface. To ensure privacy, I implemented secure recording options protected by Face ID.
+
+A backend service, developed by our team, handles call routing and recording securely via a dedicated VoIP integration and cloud storage pipeline. We also built a custom transcription engine powered by AI, which converts conversations into searchable, editable text. The app includes a separate voice recorder section for personal memos or lectures, complete with editing tools and easy sharing functionality.
+
+<img width="652" alt="Screenshot 2025-05-02 at 23 42 25" src="https://github.com/user-attachments/assets/0db7c4d0-0184-4aca-a719-1df3fad1787d" />
+
+
+**Tech Used:**
+- ☁️ Custom Backend (Node.js + Firebase)
+- 📱 SwiftUI (MVVM)
+- 🔐 Face ID Integration
+- 🧠 AI Transcription (Whisper API)
+- 💰 AppHud for IAP
+
+
+
+
+# Celebrity Voice AI
+`📲 Will be available on the App Store soon`
+
+I created a Celebrity Voice AI app that lets users convert any text into speech voiced by a wide range of characters—from fictional icons like Homer Simpson and Master Yoda to real-life figures like politicians and celebrities. Users can also record their own voice, which is transcribed using Apple’s native speech-to-text API, making it easy to transform spoken words into content-ready text.
+
+The app supports ChatGPT’s API to help users refine or generate sophisticated scripts by giving simple instructions. All voice recordings and transcripts are saved locally using Realm and can be shared or downloaded to the device. The app is fully localized in five languages: English, German, Italian, Spanish, and French.
+
+<img width="899" alt="Screenshot 2025-05-02 at 23 52 31" src="https://github.com/user-attachments/assets/9d5c37ce-9a7f-4a2d-bb18-e3de4c0d6dbc" />
+
+**Tech Used:**
+- 🧠 ChatGPT API
+- 🗣️ Apple Speech Framework
+- 🎨 SwiftUI (MVVM)
+- 💿 Realm
+- 🌍 Multilingual Support (EN, DE, IT, ES, FR)
+- 💰 AppHud for IAP
+
+
+
+# Hidden Camera Finder
+`📲 Will be available on the App Store soon`
+
+I developed Hidden Camera Finder to help users detect potentially hidden surveillance devices in their surroundings. The app scans all devices connected to the same Wi-Fi or nearby via Bluetooth and flags those that appear suspicious based on patterns commonly associated with hidden cameras. Users can manually mark known devices as safe, making future scans more accurate.
+
+Each device’s information—including name, IP address, and hostname—is stored locally using Realm for easy access and history tracking. For physical inspection, users can also activate an infrared scanner directly from the app to locate devices emitting infrared signals. The app includes in-app purchases via AppHud to unlock premium scanning features and advanced detection filters.
+
+<img width="807" alt="Screenshot 2025-05-03 at 00 14 54" src="https://github.com/user-attachments/assets/5bb08532-48e1-426c-bea9-75cb67548999" />
+
+**Tech Used:**
+- 📡 Network + Bluetooth Scanning
+- 🎨 SwiftUI (MVVM)
+- 🔎 Infrared Detection (AVFoundation)
+- 💿 Realm
+- 💰 AppHud for IAP
+
+
+
+
+
+# AI Personal Assistant
+`📲 Will be available on the App Store soon`
+
+I developed AI Personal Assistant to make ChatGPT’s capabilities more accessible in a beautifully designed, user-friendly app. It allows users to chat with a powerful AI, ask questions on any topic, and receive high-quality responses—all while paying less than the official ChatGPT subscription.
+
+The app stores previous conversations locally using Realm and offers a dedicated section showcasing the most popular prompts from other users, which can be reused or modified. It’s built to give users the full flexibility of ChatGPT while enhancing the overall experience through chat history, structured prompt browsing, and an elegant interface.
+
+<img width="555" alt="Screenshot 2025-05-03 at 00 15 45" src="https://github.com/user-attachments/assets/b398807d-7073-4050-891b-3de4676c632f" />
+
+**Tech Used:**
+- 🧠 ChatGPT API
+- 🎨 SwiftUI (MVVM)
+- 💿 Realm
+- 🌐 Prompt Feed Integration
+- 💰 AppHud for IAP
+
+
+
+# Invoice & Business Tracker
+`📲 Will be available on the App Store soon`
+
+I developed Invoice & Business Tracker to help small business owners easily generate, manage, and track invoices. The app allows users to input their business details, store client information, and define services or items being sold. Users can create professional invoices in any currency, including all essential payment details such as due dates, payment methods, and totals.
+
+Each invoice is automatically converted into a PDF that can be shared with customers. All invoice data is stored securely on-device using Realm, allowing users to revisit past invoices, mark them as paid or unpaid, and manage their records efficiently. The app also generates visual business analytics—offering sales summaries in customizable currencies and displaying revenue trends over time using clear, dynamic graphs.
+
+<img width="682" alt="Screenshot 2025-05-03 at 00 20 02" src="https://github.com/user-attachments/assets/b0db980b-5bf1-4d50-b57b-147802a829bd" />
+
+**Tech Used:**
+- 🎨 SwiftUI (MVVM)
+- 💿 Realm
+- 🧾 PDFKit
+- 💹 Charts Framework
+- 🌐 Multi-Currency Support
+- 💰 AppHud for IAP
+
+
+
+# Remove BG & Object Eraser
+`📲 Will be available on the App Store soon`
+
+I developed Remove BG & Object Eraser to let users instantly clean up their photos by removing backgrounds or unwanted objects with precision. The app uses two AI-powered endpoints from Replicate.com—one for background removal, which processes the uploaded image and returns a clean version without any background, and another for object removal.
+
+For object erasing, users can highlight the area they want removed using PencilKit. Their sketch is converted into a black-and-white mask: the drawn area becomes black, the rest white. This mask and the original image are uploaded using 0x0.st’s free image hosting API, then passed as links to Replicate’s object removal model, which returns the edited image. The app also features undo/redo functionality and a built-in gallery for managing saved results without watermarks.
+
+<img width="727" alt="Screenshot 2025-05-03 at 00 38 08" src="https://github.com/user-attachments/assets/d0b3e29a-dae7-4a8d-9f87-ea0c6eb159e5" />
+
+**Tech Used:**
+- 🎨 SwiftUI (MVVM)
+- ✏️ PencilKit
+- 🧠 Replicate.com APIs (Background Removal & Inpainting)
+- 🌐 0x0.st API for Image Hosting
+- 💿 Realm
+- 💰 AppHud for IAP
+
+
+
+# Document Scanner & PDF Editor
+`📲 Will be available on the App Store soon`
+
+I built Document Scanner & PDF Editor to give users complete control over scanning, editing, and exporting physical documents. Whether it’s a passport, ID, book, or any paper document, users can scan pages and convert them into PDFs with precision. A custom cropping tool lets users adjust each corner of the scan to align perfectly—ideal for trimming pages to A4 or any shape.
+
+Once saved, each page can be edited: users can draw color-customizable signatures directly onto the PDF using PencilKit. With PDFKit integration, users can select existing text on the page and adjust its font size, color, and line spacing. The app analyzes background and text color to overlay edits in a way that preserves the original look and layout. Users can export the full PDF, share selected pages as JPGs, or extract and send individual pages or sections as needed.
+
+<img width="732" alt="Screenshot 2025-05-03 at 00 39 02" src="https://github.com/user-attachments/assets/04ac336b-ce46-4662-aaa1-7335308c3539" />
+
+
+**Tech Used:**
+- 📸 VisionKit + AVFoundation
+- 📄 PDFKit
+- ✏️ PencilKit
+- 🎨 SwiftUI (MVVM)
+- 💿 Realm
+- 💰 AppHud for IAP
+
+
+# AI Celebrity Voice Studio
+`📲 Will be available on the App Store soon`
+
+I created AI Celebrity Voice Studio, an immersive voice generation app that allows users to convert written text into lifelike audio voiced by a wide range of AI-powered characters—ranging from fictional icons to real-world celebrities and politicians. Users can either input text or record their voice, which is transcribed using Apple’s native speech-to-text API.
+
+Recordings and their transcripts are saved in Realm for offline access, and users can replay, share, or download them. To help users write more engaging scripts, the app includes ChatGPT integration, allowing custom text generation based on user instructions. The app supports output in five languages: English, German, Italian, Spanish, and French.
+
+<img width="575" alt="Screenshot 2025-05-03 at 00 47 47" src="https://github.com/user-attachments/assets/7d8b4fa0-7790-4f4d-99a4-d108306dee36" />
+
+
+
+**Tech Used:**
+- 🧠 ChatGPT API
+- 🎤 Apple Speech Framework
+- 🗣️ AI Voice APIs
+- 💿 Realm
+- 🎨 SwiftUI (MVVM)
+- 🌍 Multilingual Support (EN, DE, IT, ES, FR)
+- 💰 AppHud for IAP
+
+
+
+
 
 
 
