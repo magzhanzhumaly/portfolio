@@ -1,3 +1,22 @@
+# Screen Mirroring: TV Cast Air
+[`📲 Available on the App Store`](https://apps.apple.com/ru/app/screen-mirroring-tv-cast-air/id6738986551?l=en-GB)
+
+
+I created Screen Mirroring: TV Cast Air to let users effortlessly cast content from their iPhone or iPad to a TV using AirPlay. The app allows you to instantly mirror photos and videos stored on your device, and even supports real-time camera streaming directly to your TV. Users can also snap photos within the app and display them immediately on a larger screen—perfect for group viewing or demos.
+
+To make screen mirroring more interactive, I integrated YouTube, TikTok, and Safari so users can cast any video they discover online. I also added PencilKit, enabling users to draw on the screen and mirror their annotations in real time—ideal for lectures or collaborative sessions. Whether it’s media playback or visual explanations, this app turns your TV into a dynamic second screen.
+
+<img width="705" alt="Screenshot 2025-05-02 at 23 12 25" src="https://github.com/user-attachments/assets/a5b8d98e-59e3-4948-a4ab-4cabe61a328f" />
+
+
+**Tech Used:**
+- 📱 SwiftUI (MVVM)
+- 📺 AirPlay Integration
+- ✏️ PencilKit
+- 📸 AVFoundation
+- 💰 AppHud for IAP
+
+
 # AI Music Maker
 [`📲 Available on the App Store`](https://apps.apple.com/ru/app/ai-music-maker-create-song/id6741863297?l=en-GB)
 
@@ -41,9 +60,6 @@ Premium features were implemented using AppHud, allowing users to unlock advance
 -	🎨 SwiftUI
 -	🏦 AppStorage
 -	💰 AppHud for IAP
-
-
-
 
 
   # Invy - Easy Invoice Maker
