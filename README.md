@@ -35,6 +35,48 @@ The app integrates the Suno Music API from platform.acedata.cloud and uses Realm
 -	💰 AppHud for IAP
 
 
+  # Invy - Easy Invoice Maker
+[`📲 Available on the App Store`](https://apps.apple.com/ru/app/invy-easy-invoice-maker/id6742225907?l=en-GB)
+
+I developed Invy - Easy Invoice Maker, a powerful iOS application enabling users to create professional invoices tailored to any type of purchase in any desired currency. The app generates customized invoices that users can send directly to their customers for their products or services. With its intuitive interface, Invy simplifies the billing process, ensuring users can seamlessly manage their financial transactions.
+
+The app also provides advanced earnings tracking through detailed statistics for any specified period and currency. Built entirely without external APIs, it leverages Realm for secure data storage and Apphud for premium features, offering a robust, private, and efficient solution for managing invoices and financial tracking.
+
+<img width="782" alt="Screenshot 2025-05-02 at 22 51 35" src="https://github.com/user-attachments/assets/b71d712b-47d1-4e50-8625-1e393c966b40" />
+
+<img width="256" alt="Screenshot 2025-05-02 at 22 52 03" src="https://github.com/user-attachments/assets/240a2fd6-7bd5-4540-b5ce-8a9efc1ab030" />
+
+
+**Tech Used:**
+-	💿 Realm
+-	🎨 SwiftUI (MVVM)
+-	💰 AppHud for IAP
+  
+
+# [Acadly](https://apps.apple.com/uz/app/acadly/id1161073387?l=en)
+[`📲 Available on the App Store`](https://apps.apple.com/uz/app/acadly/id1161073387?l=en)
+
+Acadly is a classroom response system used by over 400 universities. When I joined the team, the app lacked proper structure and testing. I restructured the codebase by implementing the MVC design pattern with UIKit, significantly improving maintainability and performance.
+
+I also reduced load times by 3 seconds and increased the Crash Free rate from 94.92% to 99.57% by introducing over 140 unit tests that detected and resolved critical bugs. My work transformed Acadly into a more stable and efficient platform for both students and educators.
+
+<img width="443" alt="Screenshot 2025-05-02 at 22 45 58" src="https://github.com/user-attachments/assets/295fd83f-49b1-4a76-82cf-a75ceb3409ad" />
+
+**Key Contributions:**
+
+-	🏗 Refactored the codebase to follow the MVC pattern
+-	💡 Implemented over 140 unit tests, raising stability and reliability
+-	📉 Reduced load times by 3 seconds
+-	🔍 Improved Crash Free rate from 94.92% to 99.57%
+
+**Tech Used:**
+
+-	💿 Realm
+-	🏗 UIKit (MVC)
+-	🧵 Multi-threaded programming
+-	🧪 Unit testing
+
+
 # [CashCraft](https://apps.apple.com/kz/app/cashcraft%E3%85%A4/id6654918982)
 [`📲 Available on the App Store`](https://apps.apple.com/kz/app/cashcraft%E3%85%A4/id6654918982)
 
@@ -62,22 +104,7 @@ Premium features were implemented using AppHud, allowing users to unlock advance
 -	💰 AppHud for IAP
 
 
-  # Invy - Easy Invoice Maker
-[`📲 Available on the App Store`](https://apps.apple.com/ru/app/invy-easy-invoice-maker/id6742225907?l=en-GB)
 
-I developed Invy - Easy Invoice Maker, a powerful iOS application enabling users to create professional invoices tailored to any type of purchase in any desired currency. The app generates customized invoices that users can send directly to their customers for their products or services. With its intuitive interface, Invy simplifies the billing process, ensuring users can seamlessly manage their financial transactions.
-
-The app also provides advanced earnings tracking through detailed statistics for any specified period and currency. Built entirely without external APIs, it leverages Realm for secure data storage and Apphud for premium features, offering a robust, private, and efficient solution for managing invoices and financial tracking.
-
-<img width="782" alt="Screenshot 2025-05-02 at 22 51 35" src="https://github.com/user-attachments/assets/b71d712b-47d1-4e50-8625-1e393c966b40" />
-
-<img width="256" alt="Screenshot 2025-05-02 at 22 52 03" src="https://github.com/user-attachments/assets/240a2fd6-7bd5-4540-b5ce-8a9efc1ab030" />
-
-
-**Tech Used:**
--	💿 Realm
--	🎨 SwiftUI (MVVM)
--	💰 AppHud for IAP
 
 
 
@@ -132,28 +159,6 @@ The app was built using SwiftUI with the MVVM architecture, and data was stored 
 
 
 
-# [Acadly](https://apps.apple.com/uz/app/acadly/id1161073387?l=en)
-[`📲 Available on the App Store`](https://apps.apple.com/uz/app/acadly/id1161073387?l=en)
-
-Acadly is a classroom response system used by over 400 universities. When I joined the team, the app lacked proper structure and testing. I restructured the codebase by implementing the MVC design pattern with UIKit, significantly improving maintainability and performance.
-
-I also reduced load times by 3 seconds and increased the Crash Free rate from 94.92% to 99.57% by introducing over 140 unit tests that detected and resolved critical bugs. My work transformed Acadly into a more stable and efficient platform for both students and educators.
-
-<img width="443" alt="Screenshot 2025-05-02 at 22 45 58" src="https://github.com/user-attachments/assets/295fd83f-49b1-4a76-82cf-a75ceb3409ad" />
-
-**Key Contributions:**
-
--	🏗 Refactored the codebase to follow the MVC pattern
--	💡 Implemented over 140 unit tests, raising stability and reliability
--	📉 Reduced load times by 3 seconds
--	🔍 Improved Crash Free rate from 94.92% to 99.57%
-
-**Tech Used:**
-
--	💿 Realm
--	🏗 UIKit (MVC)
--	🧵 Multi-threaded programming
--	🧪 Unit testing
 
 
 
