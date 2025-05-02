@@ -254,7 +254,7 @@ The app supports ChatGPT’s API to help users refine or generate sophisticated 
 
 **Tech Used:**
 - 🧠 ChatGPT API
-- 🗣️ Apple Speech Framework
+- 🗣️ TopMedia AI Voice API
 - 🎨 SwiftUI (MVVM)
 - 💿 Realm
 - 🌍 Multilingual Support (EN, DE, IT, ES, FR)
@@ -371,7 +371,7 @@ Recordings and their transcripts are saved in Realm for offline access, and user
 **Tech Used:**
 - 🧠 ChatGPT API
 - 🎤 Apple Speech Framework
-- 🗣️ AI Voice APIs
+- 🗣️ TopMedia AI Voice API
 - 💿 Realm
 - 🎨 SwiftUI (MVVM)
 - 🌍 Multilingual Support (EN, DE, IT, ES, FR)
