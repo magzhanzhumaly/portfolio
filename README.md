@@ -595,7 +595,8 @@ As part of my thesis work at university, I led a team in developing Urban Transp
 
 The app utilizes the Mapbox API to display available transport on a map, and it connects to a central database (developed by a teammate) through a REST API, retrieving user information such as balance, name, and available transport options. Additionally, the app features surge pricing to adjust rental costs dynamically based on demand, enhancing user experience and operational efficiency.
 
-![Uploading Screenshot 2025-05-02 at 22.59.24.png…]()
+
+![379472882-4722ef6e-16b4-471e-8e8c-117edd86b49f](https://github.com/user-attachments/assets/87ba43ef-e9ee-433e-a290-7677cc8efdb4)
 
 
 **Tech Used:**
