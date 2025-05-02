@@ -100,7 +100,6 @@ Premium features were implemented using AppHud, allowing users to unlock advance
 
 -	💿 Realm
 -	🎨 SwiftUI
--	🏦 AppStorage
 -	💰 AppHud for IAP
 
 
@@ -125,7 +124,6 @@ Premium features, implemented via AppHud, provide additional functionality for u
 **Key Contributions:**
 
 -	💿 Utilized Realm for seamless data storage
--	🏦 Employed AppStorage for user data management
 -	💰 Integrated AppHud for IAP and premium features
 - 🔹 Leveraged AI to generate tailored questions for each user
 
@@ -133,7 +131,6 @@ Premium features, implemented via AppHud, provide additional functionality for u
 
 -	💿 Realm
 -	🎨 SwiftUI
--	🏦 AppStorage
 -	💰 AppHud for IAP
 
 
