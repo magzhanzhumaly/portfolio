@@ -475,7 +475,6 @@ I managed the entire API integration process, including researching APIs, making
 **Tech Used:**
 -	💿 Realm
 -	🎨 SwiftUI (MVVM)
--	🏦 AppStorage
 -	💰 AppHud for IAP
 
 
