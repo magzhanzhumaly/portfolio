@@ -1,3 +1,21 @@
+# AI Music Maker
+[`📲 Available on the App Store`](https://apps.apple.com/ru/app/ai-music-maker-create-song/id6741863297?l=en-GB)
+
+
+I created AI Music Generation, my second application in the AI music space, building on my experience in this niche. This app empowers users to compose AI-generated music effortlessly, offering options for creating both instrumental tracks and songs with vocals. With the ability to generate multiple tracks simultaneously, users can explore diverse musical ideas in a streamlined and creative environment.
+
+The app integrates the Suno Music API from platform.acedata.cloud and uses Realm for secure local storage of tracks. Users can play, share, and download their creations, as well as engage with a feed of trending AI songs. AI Music Generation provides a versatile platform for exploring innovative music production while ensuring a polished user experience.
+
+<img width="688" alt="Screenshot 2025-05-02 at 23 06 32" src="https://github.com/user-attachments/assets/188d929b-1b78-4739-a630-1a1dc1ff5cfb" />
+
+
+**Tech Used:**
+-	💿 Realm
+-	🎨 SwiftUI (MVVM)
+-	🏦 Suno API
+-	💰 AppHud for IAP
+
+
 # [CashCraft](https://apps.apple.com/kz/app/cashcraft%E3%85%A4/id6654918982)
 [`📲 Available on the App Store`](https://apps.apple.com/kz/app/cashcraft%E3%85%A4/id6654918982)
 
@@ -28,6 +46,22 @@ Premium features were implemented using AppHud, allowing users to unlock advance
 
 
 
+  # Invy - Easy Invoice Maker
+[`📲 Available on the App Store`](https://apps.apple.com/ru/app/invy-easy-invoice-maker/id6742225907?l=en-GB)
+
+I developed Invy - Easy Invoice Maker, a powerful iOS application enabling users to create professional invoices tailored to any type of purchase in any desired currency. The app generates customized invoices that users can send directly to their customers for their products or services. With its intuitive interface, Invy simplifies the billing process, ensuring users can seamlessly manage their financial transactions.
+
+The app also provides advanced earnings tracking through detailed statistics for any specified period and currency. Built entirely without external APIs, it leverages Realm for secure data storage and Apphud for premium features, offering a robust, private, and efficient solution for managing invoices and financial tracking.
+
+<img width="782" alt="Screenshot 2025-05-02 at 22 51 35" src="https://github.com/user-attachments/assets/b71d712b-47d1-4e50-8625-1e393c966b40" />
+
+<img width="256" alt="Screenshot 2025-05-02 at 22 52 03" src="https://github.com/user-attachments/assets/240a2fd6-7bd5-4540-b5ce-8a9efc1ab030" />
+
+
+**Tech Used:**
+-	💿 Realm
+-	🎨 SwiftUI (MVVM)
+-	💰 AppHud for IAP
 
 
 
@@ -192,27 +226,11 @@ SoundWave also enables users to download and share their creations. With Realm i
 -	💰 AppHud for IAP
 
 
-# AI Music Maker
+
+# Vibrations
 `📲 Will be available on the App Store soon`
 
-I created AI Music Generation, my second application in the AI music space, building on my experience in this niche. This app empowers users to compose AI-generated music effortlessly, offering options for creating both instrumental tracks and songs with vocals. With the ability to generate multiple tracks simultaneously, users can explore diverse musical ideas in a streamlined and creative environment.
-
-The app integrates the Suno Music API from platform.acedata.cloud and uses Realm for secure local storage of tracks. Users can play, share, and download their creations, as well as engage with a feed of trending AI songs. AI Music Generation provides a versatile platform for exploring innovative music production while ensuring a polished user experience.
-
-<img width="739" alt="Screenshot 2025-05-02 at 22 48 53" src="https://github.com/user-attachments/assets/199a5437-7186-48af-b6df-1048fd024d44" />
-
-
-**Tech Used:**
--	💿 Realm
--	🎨 SwiftUI (MVVM)
--	🏦 Suno API
--	💰 AppHud for IAP
-
-
-# Vibrator
-`📲 Will be available on the App Store soon`
-
-I developed Vibrator, a Swift-based iOS app designed to provide customizable vibration experiences using Apple’s Core Haptics API. This app enables users to select from a variety of pre-defined vibration themes, adjust the intensity and speed levels with precision, and enjoy unique patterns for relaxation or other use cases. The intuitive design ensures smooth navigation between modes, empowering users to tailor vibrations to their preferences.
+I developed Vibrations app, a Swift-based iOS app designed to provide customizable vibration experiences using Apple’s Core Haptics API. This app enables users to select from a variety of pre-defined vibration themes, adjust the intensity and speed levels with precision, and enjoy unique patterns for relaxation or other use cases. The intuitive design ensures smooth navigation between modes, empowering users to tailor vibrations to their preferences.
 
 To enhance the user experience, I integrated AppHud for managing in-app purchases, enabling access to premium vibration modes and features. By leveraging Apple’s APIs without any third-party dependencies, Vibrator ensures seamless functionality and high performance while maintaining a sleek and user-friendly interface.
 
@@ -248,22 +266,6 @@ Built with Swift, the app leverages Safari Content Blockers to deliver efficient
 
 
 
-  # Invoice Maker
-`📲 Will be available on the App Store soon`
-
-I developed Invoice Maker, a powerful iOS application enabling users to create professional invoices tailored to any type of purchase in any desired currency. The app generates customized invoices that users can send directly to their customers for their products or services. With its intuitive interface, Invoice Maker simplifies the billing process, ensuring users can seamlessly manage their financial transactions.
-
-The app also provides advanced earnings tracking through detailed statistics for any specified period and currency. Built entirely without external APIs, it leverages Realm for secure data storage and Apphud for premium features, offering a robust, private, and efficient solution for managing invoices and financial tracking.
-
-<img width="782" alt="Screenshot 2025-05-02 at 22 51 35" src="https://github.com/user-attachments/assets/b71d712b-47d1-4e50-8625-1e393c966b40" />
-
-<img width="256" alt="Screenshot 2025-05-02 at 22 52 03" src="https://github.com/user-attachments/assets/240a2fd6-7bd5-4540-b5ce-8a9efc1ab030" />
-
-
-**Tech Used:**
--	💿 Realm
--	🎨 SwiftUI (MVVM)
--	💰 AppHud for IAP
 
 
 
